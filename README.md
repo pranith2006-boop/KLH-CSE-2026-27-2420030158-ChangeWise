@@ -74,15 +74,3 @@ ChangeWise helps development teams make better decisions before modifying an exi
 ### Database
 
 - PostgreSQL
-
-## Project Structure
-
-```text
-ChangeWise/
-│
-├── src/        # Source code
-├── docs/       # Project documentation and abstract
-├── data/       # Input datasets and project data
-├── results/    # Generated analysis results
-├── reports/    # Generated reports
-└── README.md   # Project documentation
