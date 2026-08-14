@@ -6,11 +6,12 @@ ChangeWise is an AI-powered adaptive software change impact analysis system that
 
 ## Team Details
 
-Roll Number  | Team Member 
-2420030154   |  G. Anusha 
-2420030288   |  G. Harini 
-2420030533   |  P. Chaitra Sree 
-2420030158   |  M. Pranith Reddy 
+| Roll Number | Team Member |
+|---|---|
+| 2420030154 | G. Anusha |
+| 2420030288 | G. Harini |
+| 2420030533 | P. Chaitra Sree |
+| 2420030158 | M. Pranith Reddy |
 
 **Supervisor:** Kalidindi Bhavya Varma
 
